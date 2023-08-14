@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QxmFjljcFeSH56Bp01SBougwDJfMS6b3IH1QIc/0+GGD/qAEMR4g2L67QflVIXRjJb6r73rjx9Q2tbJ1DWN1ww==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Rich Linane\\Google Drive\\Development\\vscode\\copilot-blazer-sln\\copilot-blazer\\copilot-blazer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rich Linane\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\Rich Linane\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\Rich Linane\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\Rich Linane\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

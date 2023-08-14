@@ -1,0 +1,29 @@
+@using copilot_blazer.Data
+@page "/resume"
+@inject HttpClient Http
+
+<PageTitle>@name</PageTitle>
+<div class="about">
+    <h2>About: @name</h2>
+    @if (resume != null)
+    {
+        @resume.about;
+ //       @resume.education;
+  //      @resume.experience;
+   //     @resume.skills;
+    }
+
+</div>
+
+@code {
+    [Parameter]
+    public string? name { get; set; } = "Richard James Linane";
+
+    public Resume? resume { get; set; }
+
+    public About? about { get; set; } = new About();
+    public Education? education { get; set; } = new Education();
+    public Experience? experience { get; set; } = new Experience();
+    public Skills? skills { get; set; } = new Skills();
+
+    }
