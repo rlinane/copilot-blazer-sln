@@ -29,3 +29,4 @@ c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-blazer-sln\copilot-
 c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-blazer-sln\copilot-blazer\obj\Debug\net7.0\copilot-blazer.pdb
 c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-blazer-sln\copilot-blazer\obj\Debug\net7.0\copilot-blazer.genruntimeconfig.cache
 c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-blazer-sln\copilot-blazer\obj\Debug\net7.0\ref\copilot-blazer.dll
+c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-blazer-sln\copilot-blazer\obj\Debug\net7.0\copilot-blazer.sourcelink.json
